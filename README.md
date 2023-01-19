@@ -1,3 +1,3 @@
 # React Notes App
 
-![](image.jpg)
+![](image.JPG)
